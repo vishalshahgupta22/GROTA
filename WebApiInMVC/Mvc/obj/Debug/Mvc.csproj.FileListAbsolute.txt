@@ -1,0 +1,175 @@
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Mvc.dll.config
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Mvc.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Mvc.pdb
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Antlr3.Runtime.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\EntityFramework.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\EntityFramework.SqlServer.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Google.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Web.Infrastructure.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Newtonsoft.Json.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Owin.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.Helpers.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.Mvc.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.Optimization.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.Razor.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.WebPages.Deployment.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.WebPages.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.WebPages.Razor.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\WebGrease.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.Helpers.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.Mvc.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.Optimization.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.Razor.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.WebPages.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.WebPages.Deployment.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Web.WebPages.Razor.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Newtonsoft.Json.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Antlr3.Runtime.pdb
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\EntityFramework.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\EntityFramework.SqlServer.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Google.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\obj\Debug\Mvc.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\obj\Debug\Mvc.pdb
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Net.Http.Formatting.dll
+F:\Youtube Channel\Dotnet Mob\Asp.Net Web Api\Web API CRUD With MVC\project\WebApiInMVC\Mvc\bin\System.Net.Http.Formatting.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Mvc.dll.config
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Mvc.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Mvc.pdb
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Antlr3.Runtime.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\EntityFramework.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Newtonsoft.Json.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Owin.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Net.Http.Formatting.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Helpers.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Mvc.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Optimization.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Razor.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\WebGrease.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Newtonsoft.Json.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Net.Http.Formatting.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Helpers.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Mvc.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Optimization.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Razor.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Antlr3.Runtime.pdb
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\EntityFramework.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.csprojAssemblyReference.cache
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.csproj.CopyComplete
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.dll
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.pdb
+C:\Users\VISHAL SHAH GUPTA\Desktop\OLD_CODE\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.csproj.CoreCompileInputs.cache
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Mvc.dll.config
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Mvc.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Mvc.pdb
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Antlr3.Runtime.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\EntityFramework.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\EntityFramework.SqlServer.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Core.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Cookies.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Facebook.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Google.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.OAuth.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Twitter.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Web.Infrastructure.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Newtonsoft.Json.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Owin.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Net.Http.Formatting.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Helpers.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Mvc.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Optimization.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Razor.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.Deployment.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.Razor.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\WebGrease.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Newtonsoft.Json.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Net.Http.Formatting.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Helpers.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Mvc.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Optimization.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.Razor.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.Deployment.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\System.Web.WebPages.Razor.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Antlr3.Runtime.pdb
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\EntityFramework.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\EntityFramework.SqlServer.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Core.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Facebook.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Cookies.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.OAuth.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Google.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Twitter.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.csproj.CoreCompileInputs.cache
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.csproj.CopyComplete
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.dll
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.pdb
+F:\PROJECT Z\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.csprojAssemblyReference.cache
